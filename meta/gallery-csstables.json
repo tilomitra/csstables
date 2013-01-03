@@ -1,0 +1,7 @@
+{
+    "gallery-csstables": {
+        "requires": [
+            "tables.css"
+        ]
+    }
+}

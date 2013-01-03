@@ -1,0 +1,10 @@
+{
+    "name": "gallery-csstables",
+    "builds": {
+        "gallery-csstables": {
+            "cssfiles": [
+                "css/tables.css"
+            ]
+        }
+    }
+}

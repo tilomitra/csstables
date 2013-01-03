@@ -1,0 +1,10 @@
+{
+    "name"       : "gallery-csstables",
+    "displayName": "Gallery: gallery-csstables",
+    "description": "*Summary Goes Here*",
+    "author"     : [ "tilomitra" ],
+
+    "tags": [ "gallery" ],
+
+    "examples": []
+}
