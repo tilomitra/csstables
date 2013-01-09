@@ -1,7 +1,7 @@
 {
-    "name"       : "gallery-csstables",
-    "displayName": "Gallery: gallery-csstables",
-    "description": "*Summary Goes Here*",
+    "name"       : "gallery-csstable",
+    "displayName": "Gallery: gallery-csstable",
+    "description": "Super simple CSS for HTML tables",
     "author"     : [ "tilomitra" ],
 
     "tags": [ "gallery" ],
