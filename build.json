@@ -1,7 +1,7 @@
 {
-    "name": "gallery-csstables",
+    "name": "gallery-csstable",
     "builds": {
-        "gallery-csstables": {
+        "gallery-csstable": {
             "cssfiles": [
                 "css/tables.css"
             ]
