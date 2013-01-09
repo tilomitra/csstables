@@ -1,4 +1,4 @@
-gallery-csstable
+gallerycss-csstable
 ================
 
 Super simple CSS for your `<table>`s.
@@ -7,7 +7,7 @@ Super simple CSS for your `<table>`s.
 What is it?
 -----------
 
-`gallery-csstable` is a [YUI Gallery](http://yuilibrary.com/gallery/) module that makes it easy to style HTML `<table>` elements by just adding class names. Take a look at the [docs](http://tilomitra.github.com/csstables/) for some examples.
+`gallerycss-csstable` is a [YUI Gallery](http://yuilibrary.com/gallery/) module that makes it easy to style HTML `<table>` elements by just adding class names. Take a look at the [docs](http://tilomitra.github.com/csstables/) for some examples.
 
 
 What about older browsers?
