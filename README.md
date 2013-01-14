@@ -9,6 +9,11 @@ What is it?
 
 `gallerycss-csstable` is a [YUI Gallery](http://yuilibrary.com/gallery/) module that makes it easy to style HTML `<table>` elements by just adding class names. Take a look at the [docs](http://tilomitra.github.com/csstables/) for some examples.
 
+How to use?
+-----------
+
+`<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/gallery-2013.01.09-23-24/build/gallerycss-csstable/gallerycss-csstable.css">`
+
 
 What about older browsers?
 --------------------------
