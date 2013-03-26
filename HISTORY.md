@@ -9,6 +9,7 @@ gallerycss-csstable Change History
 * Remove double declaration of `.yui3-table`, group foundational styles with basic table skin for k-weight.
 * Remove `font-family` declaration in `.yui3-table`.
 * Remove `.yui3-thead-simple`. Unnecessary now with the simplified table style in general.
+* Replace `border-bottom: 1px solid #fff` with `border-bottom-width: 0` in `.yui3-table-bordered tbody > tr:last-child td` (https://github.com/yui/yuilib-css/issues/32)
 
 0.1
 ---
