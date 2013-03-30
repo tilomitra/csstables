@@ -55,6 +55,10 @@ striping:
     background-color: #f2f2f2;
 }
 
+/* nth-child selector for modern browsers */
+.yui3-table-striped tr:nth-child(2n-1) td {
+    background-color: #f2f2f2;
+}
 
 /* BORDERED TABLES */
 .yui3-table-bordered td {
